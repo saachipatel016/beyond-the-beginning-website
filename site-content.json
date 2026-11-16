@@ -49,6 +49,10 @@
     "medical-disclaimer.html": {
       "status": "published",
       "label": "Medical Disclaimer"
+    },
+    "test.html": {
+      "label": "test",
+      "status": "published"
     }
   },
   "categories": [
