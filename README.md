@@ -7,7 +7,7 @@ This is a clean, static redesign for Beyond the Beginning, built for Cloudflare 
 - Existing NICU photographs from the supplied project
 - NICU family care package initiative page
 - Hospital partnership information
-- Family support and external resource pages
+- Family support and external resource pages 
 - Privacy and medical disclaimer pages
 
 ## Removed
