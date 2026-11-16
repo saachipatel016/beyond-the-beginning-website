@@ -109,15 +109,5 @@
       "caption": ""
     }
   ],
-  "involvementCards": [
-    {
-      "id": "offer-skills",
-      "icon": "✎",
-      "title": "Offer your skills",
-      "description": "Help with design, writing, accessibility, translation, event coordination, or outreach. Clinical content requires qualified review.",
-      "buttonText": "Get involved",
-      "buttonUrl": "contact.html",
-      "visible": true
-    }
-  ]
+  "involvementCards": []
 }
