@@ -150,15 +150,6 @@
       "buttonText": "",
       "buttonUrl": "contact.html",
       "visible": true
-    },
-    {
-      "id": "50f8f080-c74c-4258-95f7-906a2227dfa9",
-      "icon": "",
-      "title": "test 2",
-      "description": "e",
-      "buttonText": "",
-      "buttonUrl": "contact.html",
-      "visible": true
     }
   ]
 }
