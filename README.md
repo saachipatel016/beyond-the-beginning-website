@@ -1,14 +1,14 @@
 # Beyond the Beginning — Website Redesign
 
-This is a clean, static redesign for Beyond the Beginning, built for Cloudflare Pages. 
+This is a clean, static redesign for Beyond the Beginning, built for Cloudflare Pages.
 
 ## What's included
 - Responsive HTML and CSS pages
 - Existing NICU photographs from the supplied project
 - NICU family care package initiative page
-- Hospital partnership information 
-- Family support and external resource pages 
-- Privacy and medical disclaimer pages 
+- Hospital partnership information
+- Family support and external resource pages
+- Privacy and medical disclaimer pages
 
 ## Removed
 - AI chatbot and AI-related pages
@@ -79,3 +79,7 @@ The dashboard is a lightweight content manager. It includes a visual page editor
 - The OAuth app requests the `repo` scope so it can write website files. Use a dedicated GitHub account with access only to this website repository where practical.
 - The CMS API permits only website HTML pages, `site-content.json`, and safe image filenames under `assets/`; it does not expose arbitrary repository paths.
 - The dashboard does not offer unrestricted drag-and-drop layout editing. It provides visual text editing and dedicated content forms; advanced layout/styling changes still require code. New pages start from an existing page template.
+
+
+## Get Involved cards
+After deploying this version, open Admin → Get Involved to add, edit, hide, delete, and reorder the cards displayed on get-involved.html. Changes are saved to site-content.json and deployed through Cloudflare Pages.

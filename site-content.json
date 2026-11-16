@@ -35,7 +35,7 @@
       "label": "Contact"
     },
     "donate.html": {
-      "status": "hidden",
+      "status": "published",
       "label": "Donate"
     },
     "support.html": {
@@ -62,7 +62,7 @@
     {
       "id": "march-of-dimes-nicu",
       "category": "NICU information",
-      "title": "March of Dimes — NICU",
+      "title": "March of Dimes \u2014 NICU",
       "description": "Family-facing information about the neonatal intensive care unit and the experience of having a baby in the NICU.",
       "url": "https://www.marchofdimes.org/find-support/topics/neonatal-intensive-care-unit-nicu",
       "image": "",
@@ -71,7 +71,7 @@
     {
       "id": "medlineplus-premature-babies",
       "category": "Prematurity",
-      "title": "MedlinePlus — Premature Babies",
+      "title": "MedlinePlus \u2014 Premature Babies",
       "description": "Health information and an overview of topics related to premature birth.",
       "url": "https://medlineplus.gov/prematurebabies.html",
       "image": "",
@@ -80,7 +80,7 @@
     {
       "id": "cdc-preterm-birth",
       "category": "Public health information",
-      "title": "CDC — Preterm Birth",
+      "title": "CDC \u2014 Preterm Birth",
       "description": "Public-health information about preterm birth and related topics.",
       "url": "https://www.cdc.gov/maternal-infant-health/preterm-birth/index.html",
       "image": "",
@@ -103,6 +103,44 @@
       "url": "https://www.postpartum.net/",
       "image": "",
       "caption": ""
+    }
+  ],
+  "involvementCards": [
+    {
+      "id": "care-packages",
+      "icon": "\u2661",
+      "title": "Help assemble care packages",
+      "description": "Support package preparation, sorting, packing, and delivery coordination once a hospital's requirements have been confirmed.",
+      "buttonText": "Get in touch",
+      "buttonUrl": "contact.html",
+      "visible": true
+    },
+    {
+      "id": "trusted-resources",
+      "icon": "\u2727",
+      "title": "Share trusted resources",
+      "description": "Recommend established family-support organizations or accessible educational materials for possible inclusion in our resource library.",
+      "buttonText": "Explore resources",
+      "buttonUrl": "resources.html",
+      "visible": true
+    },
+    {
+      "id": "community-partners",
+      "icon": "\u2302",
+      "title": "Connect us with community partners",
+      "description": "Introduce local businesses, service organizations, or community groups that may be interested in supporting the initiative.",
+      "buttonText": "Contact us",
+      "buttonUrl": "contact.html",
+      "visible": true
+    },
+    {
+      "id": "offer-skills",
+      "icon": "\u270e",
+      "title": "Offer your skills",
+      "description": "Help with design, writing, accessibility, translation, event coordination, or outreach. Clinical content requires qualified review.",
+      "buttonText": "Get involved",
+      "buttonUrl": "contact.html",
+      "visible": true
     }
   ]
 }
