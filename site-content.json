@@ -141,15 +141,6 @@
       "buttonText": "Get involved",
       "buttonUrl": "contact.html",
       "visible": true
-    },
-    {
-      "id": "78b3d833-2b85-4ff3-bc11-94a71d921341",
-      "icon": "",
-      "title": "test",
-      "description": "hello",
-      "buttonText": "",
-      "buttonUrl": "contact.html",
-      "visible": true
     }
   ]
 }
