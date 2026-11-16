@@ -1,12 +1,12 @@
 # Beyond the Beginning — Website Redesign
 
-This is a clean, static redesign for Beyond the Beginning, built for Cloudflare Pages.
+This is a clean, static redesign for Beyond the Beginning, built for Cloudflare Pages. 
 
 ## What's included
 - Responsive HTML and CSS pages
 - Existing NICU photographs from the supplied project
 - NICU family care package initiative page
-- Hospital partnership information
+- Hospital partnership information 
 - Family support and external resource pages 
 - Privacy and medical disclaimer pages
 
