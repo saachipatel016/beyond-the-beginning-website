@@ -1,4 +1,3 @@
-
 (() => {
   const esc = (s) =>
     String(s ?? '').replace(/[&<>"']/g, (c) => ({
@@ -68,9 +67,6 @@
         Array.isArray(data.involvementCards)
       ) {
         const host = document.querySelector('#involvement-cards');
-        console.log('Page detected:', file);
-console.log('Volunteer cards:', data.involvementCards);
-console.log('Card container:', host);
 
         if (host) {
           const cards = data.involvementCards.filter(
