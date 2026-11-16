@@ -111,15 +111,6 @@
   ],
   "involvementCards": [
     {
-      "id": "community-partners",
-      "icon": "⌂",
-      "title": "Connect us with community partners",
-      "description": "Introduce local businesses, service organizations, or community groups that may be interested in supporting the initiative.",
-      "buttonText": "Contact us",
-      "buttonUrl": "contact.html",
-      "visible": true
-    },
-    {
       "id": "offer-skills",
       "icon": "✎",
       "title": "Offer your skills",
