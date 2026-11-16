@@ -111,15 +111,6 @@
   ],
   "involvementCards": [
     {
-      "id": "care-packages",
-      "icon": "♡",
-      "title": "Help assemble care packages",
-      "description": "Support package preparation, sorting, packing, and delivery coordination once a hospital's requirements have been confirmed.",
-      "buttonText": "Get in touch",
-      "buttonUrl": "contact.html",
-      "visible": true
-    },
-    {
       "id": "trusted-resources",
       "icon": "✧",
       "title": "Share trusted resources",
