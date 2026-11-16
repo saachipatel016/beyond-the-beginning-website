@@ -109,5 +109,15 @@
       "caption": ""
     }
   ],
-  "involvementCards": []
+  "involvementCards": [
+    {
+      "id": "b12297fc-1e2d-4e57-b3cc-63448cfedec7",
+      "icon": "✧",
+      "title": "NICU Care Package Initiative",
+      "description": "Assemble care packages for NICU families containing journals, toiletries, snacks, blankets, and encouraging notes.",
+      "buttonText": "",
+      "buttonUrl": "contact.html",
+      "visible": true
+    }
+  ]
 }
