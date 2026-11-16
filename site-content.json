@@ -35,7 +35,7 @@
       "label": "Contact"
     },
     "donate.html": {
-      "status": "published",
+      "status": "hidden",
       "label": "Donate"
     },
     "support.html": {
@@ -62,7 +62,7 @@
     {
       "id": "march-of-dimes-nicu",
       "category": "NICU information",
-      "title": "March of Dimes \u2014 NICU",
+      "title": "March of Dimes — NICU",
       "description": "Family-facing information about the neonatal intensive care unit and the experience of having a baby in the NICU.",
       "url": "https://www.marchofdimes.org/find-support/topics/neonatal-intensive-care-unit-nicu",
       "image": "",
@@ -71,7 +71,7 @@
     {
       "id": "medlineplus-premature-babies",
       "category": "Prematurity",
-      "title": "MedlinePlus \u2014 Premature Babies",
+      "title": "MedlinePlus — Premature Babies",
       "description": "Health information and an overview of topics related to premature birth.",
       "url": "https://medlineplus.gov/prematurebabies.html",
       "image": "",
@@ -80,7 +80,7 @@
     {
       "id": "cdc-preterm-birth",
       "category": "Public health information",
-      "title": "CDC \u2014 Preterm Birth",
+      "title": "CDC — Preterm Birth",
       "description": "Public-health information about preterm birth and related topics.",
       "url": "https://www.cdc.gov/maternal-infant-health/preterm-birth/index.html",
       "image": "",
