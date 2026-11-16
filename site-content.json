@@ -111,15 +111,6 @@
   ],
   "involvementCards": [
     {
-      "id": "trusted-resources",
-      "icon": "✧",
-      "title": "Share trusted resources",
-      "description": "Recommend established family-support organizations or accessible educational materials for possible inclusion in our resource library.",
-      "buttonText": "Explore resources",
-      "buttonUrl": "resources.html",
-      "visible": true
-    },
-    {
       "id": "community-partners",
       "icon": "⌂",
       "title": "Connect us with community partners",
